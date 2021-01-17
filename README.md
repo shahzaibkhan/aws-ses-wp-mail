@@ -20,6 +20,8 @@ AWS SES is a very simple UI-less plugin for sending `wp_mail()`s email via AWS S
 Getting Set Up
 ==========
 
+Download and run "composer update".
+
 Once you have `git clone`d the repo, or added it as a Git Submodule, add the following constants to your `wp-config.php`:
 
 ```PHP
